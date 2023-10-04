@@ -1,0 +1,18 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ßà¾8‘ÊÆÈŸ1
+}
+java:S1192"[Define a constant instead of duplicating this literal "Category could not found!!" 3 times.(Ü­ğ¤ıÿÿÿÿ8’ÊÆÈŸ1
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ñ¹Ö–ûÿÿÿÿ8˜ÊÆÈŸ1
+Y
+java:S1854"<Remove this useless assignment to local variable "category".(ïÑš8¢ÊÆÈŸ1
+J
+java:S1481"-Remove this unused "category" local variable.(ïÑš8¤ÊÆÈŸ1
+^
+java:S1854&"<Remove this useless assignment to local variable "category".(š½Ü²ıÿÿÿÿ8¥ÊÆÈŸ1
+O
+java:S1481&"-Remove this unused "category" local variable.(š½Ü²ıÿÿÿÿ8¥ÊÆÈŸ1
+Y
+java:S1854,"<Remove this useless assignment to local variable "category".(ïÑš8¥ÊÆÈŸ1
+J
+java:S1481,"-Remove this unused "category" local variable.(ïÑš8¦ÊÆÈŸ1
